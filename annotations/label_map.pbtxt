@@ -1,9 +1,9 @@
 item {
   id: 1
-  name: 'Millennium Falcon'
+  name: 'Employee_1'
 }
 
 item {
   id: 2
-  name: 'Tie Fighter'
+  name: 'Employee_2'
 }
